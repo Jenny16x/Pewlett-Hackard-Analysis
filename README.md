@@ -9,10 +9,10 @@
 
 <p>The results shows that 
 <ol>
-<li>1. There is 41381 employees that are at retirement ago for the upcoming year.</li>
-<li>2. Development Department has the most employees that are eligible.</li>
-<li>3. Finance Depart has the least employees that will enter the retirement.</li>
-<li>4. There are 1550 employees that are eligible to participate in the mentorship program.</li>
+<li> There is 41381 employees that are at retirement ago for the upcoming year.</li>
+<li> Development Department has the most employees that are eligible.</li>
+<li> Finance Depart has the least employees that will enter the retirement.</li>
+<li> There are 1550 employees that are eligible to participate in the mentorship program.</li>
 </ol>
 
 
